@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background: #edcf0c;
+  }
+  
+  header {
+    width:100%;
+    
+    color: green;
+    background:white;
+    border-radius:25px;
+  }
+  
+  button {
+    color: black;
+    background: white;
+  }
+  
+  .table{
+    padding:25px;
+    background: pink;
+    width:50%;
+    
+    
+  }
+  
+  tr,th,td{
+    padding:15px;
+    text-align: center;
+  }
+  
+  
